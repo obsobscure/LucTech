@@ -2,6 +2,11 @@ body {
     background-color: #282a3e;
 }
 
+#logo {
+    padding-left: 20px;
+    text-align: center;
+
+}
 .menu {
     background-color: #1e2033;
     margin-left: -10px;
@@ -16,6 +21,14 @@ body {
     margin-top: 100px;
     font-size: 32px;
     text-align: center;
+    border: 1px solid rgb(43, 43, 214);
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgba(104, 104, 243, 0.205);
+
 }
 
 .b2 {
@@ -24,6 +37,13 @@ body {
     margin-top: 100px;
     font-size: 32px;
     text-align: center;
+    border: 1px solid rgb(43, 43, 214);
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    background-color: rgba(104, 104, 243, 0.205);
 }
 
 .b3 {
@@ -32,6 +52,13 @@ body {
     margin-top: 100px;
     font-size: 32px;
     text-align: center;
+    border: 1px solid rgb(43, 43, 214);
+    border-radius: 20px;
+    border-left: 20px;
+    border-right: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgba(104, 104, 243, 0.205);
 }
 
 .b4 {
@@ -54,4 +81,12 @@ body {
     color: seashell;
     text-align: center;
     margin-bottom: 0px;
+}
+
+h1 {
+    font-family: 'Roboto Mono', monospace;
+    color: azure;
+    text-align: center;
+    font-size: 48px;
+    font-style: italic;
 }
