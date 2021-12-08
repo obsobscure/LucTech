@@ -182,14 +182,24 @@ body {
     margin-left: 180px;
     margin-right: 180px;
 }
-
+footer{
+    margin-bottom: -20px;
+    padding-right: -20px;
+    border-right: -20px;
+    
+}
 .footer {
-    background-color: #1e2033;
+    background-color: #191b2a;
     color: seashell;
     text-align: center;
-    margin-bottom: 0px;
+    margin: 0px 0px 0px 0px;
+    
 }
-
+.left{
+    text-align: left;
+    font-family: 'Roboto Mono', monospace;
+    color: azure;
+}
 h1 {
     font-family: 'Roboto Mono', monospace;
     color: azure;
