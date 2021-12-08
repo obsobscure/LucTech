@@ -179,8 +179,6 @@ body {
 .carrossel { 
     text-align: center;
     border: 4px solid purple;
-    padding-top: 180px;
-    padding-bottom: 180px;
     margin-left: 180px;
     margin-right: 180px;
 }
@@ -199,4 +197,3 @@ h1 {
     font-size: 48px;
     font-style: italic;
 }
-
