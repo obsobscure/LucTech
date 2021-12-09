@@ -1,6 +1,5 @@
 body {
     background-color: #282a3e;
-    color: black;
 }
 
 #logo {
@@ -177,31 +176,7 @@ body {
     100% { transform: translate(1px, -2px) rotate(-1deg); }
   }
 
-.carrossel { 
-    text-align: center;
-    border: 4px solid purple;
-    margin-left: 180px;
-    margin-right: 180px;
-}
-footer{
-    margin-bottom: -20px;
-    padding-right: -20px;
-    border-right: -20px;
-    
-}
-.footer {
-    background-color: #191b2a;
-    color: seashell;
-    text-align: center;
-    margin: 0px 0px 0px 0px;
-    
-}
-.left{
-    text-align: left;
-    font-family: 'Roboto Mono', monospace;
-    color: azure;
-}
-h1 {
+  h1 {
     font-family: 'Roboto Mono', monospace;
     color: azure;
     text-align: center;
