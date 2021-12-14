@@ -5,9 +5,10 @@ body {
 .menu {
     background-color: #1e2033;
     margin-left: -10px;
-    margin-right: -8px;
+    margin-right: 0px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    size: 100%;
 }
 
 .b1 {
@@ -23,6 +24,7 @@ body {
     margin-left: 70px;
     margin-right: 70px;
     background-color: rgba(104, 104, 243, 0.205);
+    margin-bottom: 50px;
 
 }
 
@@ -60,6 +62,7 @@ body {
     margin-left: 80px;
     margin-right: 80px;
     background-color: rgba(104, 104, 243, 0.205);
+    margin-bottom: 50px;
 }
 
 .b2:hover{
@@ -96,6 +99,7 @@ body {
     margin-left: 50px;
     margin-right: 50px;
     background-color: rgba(104, 104, 243, 0.205);
+    margin-bottom: 50px;
 }
 
 .b3:hover{
@@ -163,4 +167,24 @@ h1 {
     margin-right: 350px;
     padding-top: 75px;
     padding-bottom: 50px;
+    border-radius: 50px;
+}
+footer {
+    background-color: rgba(21, 21, 54, 0.356);
+}
+.container {
+    text-align: center;
+    color: azure;
+    font-family: 'Arvo', serif;
+}
+
+.footer-copyright{
+    color: azure;
+   ;
+}
+page-footer font-small unique-color-dark pt-4{
+    background-color: rgba(21, 21, 54, 0.356);
+}
+#rodape {
+    margin-bottom: 0px;
 }
